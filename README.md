@@ -4,7 +4,7 @@ I'm **Jiayang (Aurora) Sun**, a junior undergraduate studying Computer Science a
 
 My research interests lie in **AI Agents**, **AI Evaluation**, **Computer-Use Agents**, **AI for Math**, and **Reinforcement Learning**. I'm particularly interested in building intelligent systems that are capable, reliable, and rigorously evaluated.
 
-At Princeton, I work on **multi-agent debate** with Professor [Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath), under the mentorship of [Zerui Cheng](https://www.zerui-cheng.com/). We study how multi-agent collaboration can improve the reliability of LLM reasoning. Our work has been accepted to the **ICML 2026 AI for Math Workshop** and is available [here](https://github.com/aurorajy1108/When-Wrong-Answers-Look-Right).
+At Princeton, I work on **multi-agent debate** with Professor [Pramod Viswanath](https://ece.princeton.edu/people/pramod-viswanath), under the mentorship of [Zerui Cheng](https://www.zerui-cheng.com/). We study how multi-agent collaboration can improve the reliability of LLM reasoning. Our work has been accepted to the **ICML 2026 AI4Math Workshop** and is available [here](https://github.com/aurorajy1108/When-Wrong-Answers-Look-Right).
 
 At HKU, I work with Professor [Tao Yu](https://taoyds.github.io/) in the [XLang Lab](https://xlang.ai/) on [OSWorld 2.0](https://osworld-v2.xlang.ai/), a benchmark for evaluating long-horizon computer-use agents.
 
